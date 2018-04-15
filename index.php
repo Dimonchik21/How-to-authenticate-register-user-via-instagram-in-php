@@ -26,7 +26,7 @@
             <?php if (!isset($_SESSION['User'])) { ?>
                 <div class="row">
                     <div class="col-md-12">
-                        <h3>Login with Google or Facebook</h3>
+                        <h3>Login with Instagram</h3>
                     </div>
                 </div>
                 <div class="row">
